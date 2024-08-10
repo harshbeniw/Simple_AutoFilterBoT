@@ -1414,6 +1414,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('👻 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('👾 Aʙᴏᴜᴛ', callback_data='about')
                 ],[
+                    InlineKeyboardButton("Movie Request", url="https://t.me/Anime_All_Hindi_In_Crunchyroll")
+                ],[
                     InlineKeyboardButton('💰 How To Use This Bot 💸', url='https://t.me/moviessssssssssssssaassss')
                   ]]
         
