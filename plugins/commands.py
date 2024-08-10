@@ -28,6 +28,8 @@ async def start(client, message):
                     InlineKeyboardButton('🧑‍💻 Oᴡɴᴇʀ', callback_data= "owner_info"),
                     InlineKeyboardButton('🌿 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', callback_data='money_bot')
                  ],[
+                    InlineKeyboardButton("Movie Request", url="https://t.me/Anime_All_Hindi_In_Crunchyroll")
+                 ],[
                     InlineKeyboardButton('💰 How To Use This Bot 💸', url='https://t.me/moviessssssssssssssaassss')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -50,6 +52,8 @@ async def start(client, message):
                  ],[
                     InlineKeyboardButton('👻 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('👾 Aʙᴏᴜᴛ', callback_data='about')
+                 ],[
+                    InlineKeyboardButton("Movie Request", url="https://t.me/Anime_All_Hindi_In_Crunchyroll")
                  ],[
                     InlineKeyboardButton('💰 How To Use This Bot 💸', url='https://t.me/moviessssssssssssssaassss')
                   ]]
@@ -101,6 +105,8 @@ async def start(client, message):
                  ],[
                     InlineKeyboardButton('👻 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('👾 Aʙᴏᴜᴛ', callback_data='about')
+                 ],[
+                    InlineKeyboardButton("Movie Request", url="https://t.me/Anime_All_Hindi_In_Crunchyroll")
                  ],[
                     InlineKeyboardButton('💰 How To Use This Bot 💸', url='https://t.me/moviessssssssssssssaassss')
                   ]]
